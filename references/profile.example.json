@@ -1,0 +1,15 @@
+{
+  "current_weight_kg": 90.0,
+  "target_weight_kg": 82.0,
+  "calories_min": 1800,
+  "calories_max": 2000,
+  "protein_min_g": 130,
+  "water_min_l": 3,
+  "steps_min": 8000,
+  "strength_sessions_per_week": 2,
+  "cardio_km_per_week": 15,
+  "forbidden": ["example item 1", "example item 2"],
+  "sleep_min_hours": 6,
+  "meal_alert_calories": 500,
+  "medical_notes": ""
+}
